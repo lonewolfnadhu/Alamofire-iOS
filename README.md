@@ -1,2 +1,2 @@
 # alamofire-ios
-A small project that helps me better understand Alamofire for networking in iOS.
+This modest project has facilitated my understanding of Alamofire, a powerful networking library used in iOS development.
